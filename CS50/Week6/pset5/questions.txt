@@ -1,0 +1,12 @@
+0.  pneumonoultramicroscopicsilicovolcanoconiosis:an invented long word said to mean a lung disease caused by inhaling very fine ash and sand dust.
+1.  getrusage:get information about resource utilization.
+2.  16 members of the struct usage.
+3.  Because by reference we can access more than one value in the struct usage such as ru_utime.
+4.  Above all, a for loop to make get char from the pointer fp again and again. Inside the loop: first check whether the input c is a letter, when c is a letter allow a letter goes in array word[index] and add the index. when c is digit, ignore it. when c is ‘\ ’, it’s mean we get the word, then we check the word inside the dictionary, add the counter and calculate the time_check.
+
+5.  fscanf will read until ‘ ’ and stores the array in the buffer, the array may contain comma …etc which maybe lead problems for the misspelling function. fgetc proceeded by a character can avoid that problem.
+6.  Avoid error of mis-changing the pointer.
+7.  I use a hash table.Inside my hash table, The content is the head pointer of the same “hashed” word.And inside the node, first element is the char array of the word, the second element is a pointer which points to the next node.
+8.  TIME IN TOTAL:0.08  by work the “texts/austinpowers.txt”
+9.  Can’t remember 
+10. I feel not that hard, my code can do the work without problem, but when I use the “check50”,it always has some problems which i don’t know what is mean. This happened in previous homeworks and my score is poor by this situation.

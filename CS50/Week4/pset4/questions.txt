@@ -1,0 +1,21 @@
+0.  BMP：2^24;GIF:2^8;JPEG:2^24;PNG:2^24
+1.  GIF
+2.  Difference is on the quantity of the loss of image quality by compression
+3.  GIF
+4.  In FAT file system, when we delete a file, the system just delete the name of file inside the list of FAT file system.So the acutal data of the file haven’t be delete.
+5.  We can use write-in command to input thing to cover the data we want to delete.
+6.  BMP-related data types based on Microsoft's own.
+7.  The datas of the image are in the scale of those types(uint8..etc),use these types can avoid many errors.
+8.  BYTE-1 byte;DWORD-4 bytes;LONG-4 bytes;WORD-2 bytes;
+9.  0x424D
+10. Bfsize contains the size of BMP image and the size of headers;
+    Bisize contains the size of BMP image.
+11. If biHeight is negative, the bitmap is a top-down DIB with the origin at the upper left corne.
+12. biBitCount
+13. Could not create \outfile
+14. It specifies how many elements you want to read, and we're always
+reading a struct so we only need 1 struct.
+15. The padding = (4 - (3 * 3) % 4) % 4 = 3.
+16. Move to a specific location in a file.
+17. An int constant specifies the offset provided is about the current file position.
+18.Yes

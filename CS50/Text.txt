@@ -1,0 +1,16 @@
+study.cs50.edu
+
+cs50.harvard.edu/quizzes
+
+reference.cs50.edu
+
+cs50.harvard.edu/lectures
+
+cs50.harvard.edu/psets
+
+cs50.harvard.edu/sections
+
+cs50.harvard.edu/hours
+
+cs50.harvard.edu/discuss
+
